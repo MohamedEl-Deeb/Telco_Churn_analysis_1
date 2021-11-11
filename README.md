@@ -1,6 +1,7 @@
+![alt text](./stc_logo.png)
 # Telco Customer Churn Analysis
 
-### Company Background:
+### Company Background(Fake scenario):
 
 Saudi Telecom Company (STC) is a Saudi Arabia-based digital company that offers telecommunications services, landline, mobile, Internet services, enterprise digital solutions, entertainment, fintech, and computer networks
 
